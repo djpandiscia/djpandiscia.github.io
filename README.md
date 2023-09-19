@@ -1,7 +1,7 @@
 # djpandiscia.github.io
 Derek Pandiscia, derekpandiscia@gmail.com
 
-My GitHub account was created for labs and assignments for me classes at Wake Tech.
+My GitHub account was created for labs and assignments for my classes at Wake Tech.
 
 The repository I created is for files and projects that will be assigned later in my class.
  
